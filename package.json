@@ -1,0 +1,19 @@
+{
+  "name": "@jeanlauliac/upd-configure",
+  "version": "0.1.0",
+  "description": "Generate `updfile.json` manifests for the `upd` utility",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanlauliac/upd-configure.git"
+  },
+  "author": "Jean Lauliac <jean@lauliac.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanlauliac/upd-configure/issues"
+  },
+  "homepage": "https://github.com/jeanlauliac/upd-configure#readme"
+}
